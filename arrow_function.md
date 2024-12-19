@@ -2,9 +2,8 @@ JavaScript 中的 => 是箭头函数 (arrow function) 的语法，提供了一�
 1. 基本语法
 箭头函数语法：
 
-javascript
-复制代码
-const add = (a, b) => a + b;
+
+`const add = (a, b) => a + b;`
 传统函数语法：
 
 javascript
